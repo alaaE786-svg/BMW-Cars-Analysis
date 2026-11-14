@@ -19,7 +19,7 @@ The dashboard contains 7 pages:
 ## Dashboard Preview
 
 ### Home
-![Home](Screenshots/dashboard-overview.jpg)
+![Home](Screenshots/home.jpg)
 
 ### BMW X3
 ![BMW X3](Screenshots/X3-analysis.jpg)
