@@ -37,7 +37,7 @@ The dashboard contains 7 pages:
 ![BMW i8](Screenshots/i8-analysis.jpg)
 
 ### BMW 3 Series
-![BMW 3 Series](Screenshots/3 series-analysis.jpg)
+![BMW 3 Series](Screenshots/3%20series-analysis.jpg)
 
 ## How to Use
 1. Download the PBIX file.
