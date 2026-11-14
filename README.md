@@ -43,6 +43,14 @@ The dashboard contains 7 pages:
 
 ### BMW 3 Series
 ![BMW 3 Series](Screenshots/3%20series-analysis.jpg)
+## 🔍 Analysis Areas
+
+- BMW sales volume analysis.
+- Vehicle price analysis.
+- Sales distribution by fuel type.
+- Car color analysis.
+- Comparison between BMW car models.
+- Analysis of vehicle transmission types.
 
 ## 📥 Download & How to Use
 
