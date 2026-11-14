@@ -60,6 +60,13 @@ The dashboard contains 7 pages:
 1. Download the PBIX file.
 2. Open it using Microsoft Power BI Desktop.
 3. Explore the dashboard pages and interactive filters.
+## 🎯 Project Objectives
+
+- Analyze BMW car sales data.
+- Explore different BMW car models and their prices.
+- Understand sales distribution by fuel type and transmission.
+- Present key data in an interactive Power BI dashboard.
+- Make the data easier to understand through visualizations. 
 
 ## Author
 Alaa Essam
