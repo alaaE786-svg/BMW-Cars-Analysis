@@ -1,7 +1,12 @@
 # 🚗 BMW Cars Analysis Dashboard
 
-## Project Overview
-This project is an interactive Power BI dashboard for exploring and analyzing different BMW car models.
+## 📌 Project Overview
+
+This project presents an interactive BMW Vehicle Sales Analysis Dashboard built using Microsoft Power BI.
+
+The dashboard provides insights into vehicle sales performance, pricing, fuel types, car colors, and different BMW models.
+
+It aims to transform vehicle sales data into meaningful visual insights to support better business understanding and data-driven decisions.
 
 ## Dashboard Pages
 The dashboard contains 7 pages:
