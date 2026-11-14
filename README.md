@@ -19,25 +19,25 @@ The dashboard contains 7 pages:
 ## Dashboard Preview
 
 ### Home
-![Home](Screenshots/home.png)
+![Home](Screenshots/dashboard-overview.jpg)
 
 ### BMW X3
-![BMW X3](Screenshots/x3.png)
+![BMW X3](Screenshots/X3-analysis.jpg)
 
 ### BMW X6
-![BMW X6](Screenshots/x6.png)
+![BMW X6](Screenshots/X6-analysis.jpg)
 
 ### BMW M3
-![BMW M3](Screenshots/m3.png)
+![BMW M3](Screenshots/M3-analysis.jpg)
 
 ### BMW M5
-![BMW M5](Screenshots/m5.png)
+![BMW M5](Screenshots/M5-analysis.jpg)
 
 ### BMW i8
-![BMW i8](Screenshots/i8.png)
+![BMW i8](Screenshots/i8-analysis.jpg)
 
 ### BMW 3 Series
-![BMW 3 Series](Screenshots/3-series.png)
+![BMW 3 Series](Screenshots/3 series-analysis.jpg)
 
 ## How to Use
 1. Download the PBIX file.
