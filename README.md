@@ -44,10 +44,14 @@ The dashboard contains 7 pages:
 ### BMW 3 Series
 ![BMW 3 Series](Screenshots/3%20series-analysis.jpg)
 
-## How to Use
+## 📥 Download & How to Use
+
+[Download BMW Power BI Dashboard](Dashboard/BMW_Cars_Dashboard.pbix)
+
+### Steps:
 1. Download the PBIX file.
-2. Open it using Power BI Desktop.
-3. Explore the dashboard pages.
+2. Open it using Microsoft Power BI Desktop.
+3. Explore the dashboard pages and interactive filters.
 
 ## Author
 Alaa Essam
